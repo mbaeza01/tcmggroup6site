@@ -1,2 +1,2 @@
-# tcmggroup6site
-Project Website for Group 6
+# Welcome to Group 6's website!
+Our Backgrounds:
