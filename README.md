@@ -1,2 +1,2 @@
-# Welcome to Group 6's website!
-Our Backgrounds:
+# tcmggroup6site
+Our Website for Group 6
